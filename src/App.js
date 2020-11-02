@@ -1,9 +1,16 @@
-
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Navbar from "./components/navbar";
+import Footer from "./components/footer"
 
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <div>
+   <Navbar />
+
+   <Footer />
+   </div>
   );
 }
 
