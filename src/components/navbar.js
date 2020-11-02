@@ -20,9 +20,14 @@ function Navbar (){
         </Link>
 
 
-            {/* <a class="nav-link active" href="#">About <span class="sr-only">(current)</span></a> */}
+            
             <a class="nav-link" href="portfolio.html">Portfolio</a>
-            <a class="nav-link" href="contact.html">Contact</a>
+            
+            <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+          Contact
+        </Link>
+
+            
             <a class="nav-link" href="Assets/Max_Goldstein_October_Resume.pdf" target="_blank">Resume</a>
             <a class="nav-link" href="https://www.linkedin.com/in/max-goldstein-11a33396/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
             <a class="nav-link" href="https://github.com/maxgoldstein93" target="_blank"><i class="fab fa-github fa-2x"></i></a>
