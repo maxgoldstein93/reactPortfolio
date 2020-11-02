@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 
 
 function Navbar (){
+    const location =useLocation();
 
     return(
 
@@ -14,7 +15,12 @@ function Navbar (){
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
-            <a class="nav-link active" href="#">About <span class="sr-only">(current)</span></a>
+        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+          About
+        </Link>
+
+
+            {/* <a class="nav-link active" href="#">About <span class="sr-only">(current)</span></a> */}
             <a class="nav-link" href="portfolio.html">Portfolio</a>
             <a class="nav-link" href="contact.html">Contact</a>
             <a class="nav-link" href="Assets/Max_Goldstein_October_Resume.pdf" target="_blank">Resume</a>
