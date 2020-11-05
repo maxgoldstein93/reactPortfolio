@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/main.css"],"names":[],"mappings":"AAAA,KACI,kGAAyE,CACzE,qBAAsB,CACtB,mBACF","file":"main.017a8274.chunk.css","sourcesContent":["body {\n    background: url(\"background_portfolio.jpg\") no-repeat center center fixed;\n    background-size: cover;\n    padding-bottom: 70px;\n  }"]}
