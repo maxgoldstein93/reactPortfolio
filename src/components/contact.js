@@ -11,7 +11,7 @@ function Contact (){
        
         <main className="container border dark bg-dark mt-5 ">
        
-            <header className="row pt-3 ">
+            <header id="contact" className="row pt-3 ">
                 <div className="col-md">
                     <h1 style={styles}>Contact</h1>
                 </div>

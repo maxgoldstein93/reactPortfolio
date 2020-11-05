@@ -1,5 +1,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import Contact from "../contact"
+import Portfolio from "../portfolio"
 function About() {
 
     const styles = {
@@ -7,7 +9,7 @@ function About() {
 
     }
     return (
-
+        <>
         <main className="container border dark bg-dark  mt-5 ">
             <div className="row p-3 ">
                 <header className="col-md">
@@ -29,6 +31,8 @@ function About() {
             </section>
            
         </main>
+       
+        </>
 
     );
 

@@ -18,11 +18,9 @@ function Navbar (){
         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
           About
         </Link>
-
-
-            
-            <a class="nav-link" href="portfolio.html">Portfolio</a>
-            
+        <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+         Portfolio
+        </Link>
             <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
           Contact
         </Link>

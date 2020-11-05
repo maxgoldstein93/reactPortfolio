@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 
 function Footer() {
 
+    
     return (
 
         <footer className="fixed-bottom">
