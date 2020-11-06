@@ -1,6 +1,6 @@
 # Max Goldstein Portfolio
 
-[CLICK HERE FOR LIVE APPLICATION](https://maxgoldstein93.github.io/userDirectory/)
+[CLICK HERE FOR LIVE APPLICATION](https://maxgoldstein93.github.io/reactPortfolio/#/portfolio)
 
 ## Table of Contents
 * [Screenshots](#screenshots)
