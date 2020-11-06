@@ -16,7 +16,7 @@
         "repo": "https://github.com/maxgoldstein93/Local-Brews"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Local Brews",
         "image": "https://github.com/maxgoldstein93/reactPortfolio/public/assets/localbrews.png",
         "info": "Local Brews is a group project that I completed to find local breweries utilizing Mapbox and Open Brewery API.",
