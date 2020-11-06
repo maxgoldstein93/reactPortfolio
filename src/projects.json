@@ -1,11 +1,47 @@
 [
    
     {
-        "id": 3,
+        "id": 1,
         "name": "Local Brews",
-        "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/donut.png?raw=true",
-        "info": "Local Brews is a group project that I completed to find local breweries utilizing Mapbox and Open Brewery API.",
+        "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/localbrews.png?raw=true",
         "github": "https://maxgoldstein93.github.io/Local-Brews/",
         "repo": "https://github.com/maxgoldstein93/Local-Brews"
-    }
+    },
+    {
+      "id": 2,
+      "name": "Stream Saver",
+      "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/screensaver.png?raw=true",
+  
+      "github": "https://stream-saver.herokuapp.com/",
+      "repo": "https://github.com/maxgoldstein93/Stream-Saver"
+  },
+  {
+    "id": 3,
+    "name": "Eat a Donut",
+    "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/donut.png?raw=true",
+
+    "github": "https://eatthedonutapp.herokuapp.com/",
+    "repo": "https://github.com/maxgoldstein93/eatTheDonutApp/"
+},
+{
+  "id": 4,
+  "name": "Weather Dashboard",
+  "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/weatherDashboard2.png?raw=true",
+  "github": "https://maxgoldstein93.github.io/WeatherDashboard/",
+  "repo": "https://github.com/maxgoldstein93/WeatherDashboard"
+},
+{
+  "id": 5,
+  "name": "Note Taker",
+  "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/notetaker.png?raw=true",
+  "github": "https://sleepy-harbor-54323.herokuapp.com/",
+  "repo": "https://github.com/maxgoldstein93/noteTaker"
+},
+{
+  "id": 6,
+  "name": "Code Quiz",
+  "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/codeQuiz.png?raw=true",
+  "github": "https://github.com/maxgoldstein93/Javascriptquiz",
+  "repo": "https://maxgoldstein93.github.io/Javascriptquiz/"
+}
   ]
