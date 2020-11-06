@@ -31,7 +31,7 @@ componentDidMount(){
         </section>
         <section className="row">
         {this.state.project.map(newProject =>
-        <Project key={newProject.id} name={newProject.name} info={newProject.info} github={newProject.github} repo={newProject.repo} />
+        <Project key={newProject.id} name={newProject.name} info={newProject.info} github={newProject.github} repo={newProject.repo}  image={newProject.image}/>
 
             )}
            
