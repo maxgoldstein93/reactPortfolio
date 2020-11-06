@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Local Brews",
-      "image": "https://github.com/maxgoldstein93/reactPortfolio/assets/localbrews.png",
+      "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/build/assets/localbrews.png?raw=true",
       "info": "Local Brews is a group project that I completed to find local breweries utilizing Mapbox and Open Brewery API.",
       "github": "https://maxgoldstein93.github.io/Local-Brews/",
       "repo": "https://github.com/maxgoldstein93/Local-Brews"
