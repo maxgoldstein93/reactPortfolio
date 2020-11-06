@@ -10,7 +10,7 @@ function About() {
     }
     return (
         <>
-        <main className="container border dark bg-dark  mt-5 ">
+        <main className="container dark bg-dark  mt-5 shadow p-3 mb-5 rounded ">
             <div className="row p-3 ">
                 <header className="col-md">
                     <h1 style={styles}>About Me</h1>
@@ -18,7 +18,7 @@ function About() {
             </div>
             <section className="row">
                 <article className="col-md-12">
-                    <img src="assets/Profile.JPG" alt="Profile Picture" className="rounded float-left pr-3 pb-3" />
+                    <img src="https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/Profile.JPG" alt="Profile Picture" className="rounded float-left pr-3 pb-3" />
                     <p style ={styles}>Max Goldstein is currently a web-development student at the UPenn LPS bootcamp, he is based out of Pittsburgh
                     Pennsylvania. Max attended the University of Utah in Salt Lake City and earned a BS degree in
                     Business with an emphasis in Operations Management. After graduation Max moved to Israel where he

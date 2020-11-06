@@ -15,20 +15,16 @@ function Navbar (){
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
-        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+        <Link to="/" className="nav-link active" >
           About
         </Link>
-        <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+        <Link to="/portfolio" className="nav-link active">
          Portfolio
         </Link>
-            <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+            <Link to="/contact" className= "nav-link active" >
           Contact
         </Link>
 
-            
-            <a class="nav-link" href="Assets/Max_Goldstein_October_Resume.pdf" target="_blank">Resume</a>
-            <a class="nav-link" href="https://www.linkedin.com/in/max-goldstein-11a33396/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
-            <a class="nav-link" href="https://github.com/maxgoldstein93" target="_blank"><i class="fab fa-github fa-2x"></i></a>
         </div>
     </div>
 </nav>
