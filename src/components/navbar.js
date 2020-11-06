@@ -15,7 +15,7 @@ function Navbar (){
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
-        <Link to="/" className="nav-link active" >
+        <Link to="/about" className="nav-link active" >
           About
         </Link>
         <Link to="/portfolio" className="nav-link active">

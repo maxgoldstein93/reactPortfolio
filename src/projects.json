@@ -1,24 +1,9 @@
 [
-    {
-      "id": 1,
-      "name": "Local Brews",
-      "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/build/assets/localbrews.png?raw=true",
-      "info": "Local Brews is a group project that I completed to find local breweries utilizing Mapbox and Open Brewery API.",
-      "github": "https://maxgoldstein93.github.io/Local-Brews/",
-      "repo": "https://github.com/maxgoldstein93/Local-Brews"
-    },
-    {
-        "id": 2,
-        "name": "Local Brews",
-        "image": "https://github.com/maxgoldstein93/reactPortfolio/public/assets/localbrews.png",
-        "info": "Local Brews is a group project that I completed to find local breweries utilizing Mapbox and Open Brewery API.",
-        "github": "https://maxgoldstein93.github.io/Local-Brews/",
-        "repo": "https://github.com/maxgoldstein93/Local-Brews"
-    },
+   
     {
         "id": 3,
         "name": "Local Brews",
-        "image": "https://github.com/maxgoldstein93/reactPortfolio/public/assets/localbrews.png",
+        "image": "https://github.com/maxgoldstein93/reactPortfolio/blob/main/public/assets/donut.png?raw=true",
         "info": "Local Brews is a group project that I completed to find local breweries utilizing Mapbox and Open Brewery API.",
         "github": "https://maxgoldstein93.github.io/Local-Brews/",
         "repo": "https://github.com/maxgoldstein93/Local-Brews"
